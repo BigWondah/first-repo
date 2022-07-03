@@ -1,3 +1,3 @@
 # Head dome
 
-This is to begin the my test for proficiency in git
+This is to beggin my test for proficiency in git
